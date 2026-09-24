@@ -1,0 +1,7 @@
+{
+  "name": "DHIU THESIS FORUM",
+  "description": "DHIU THESIS FORUM - Research Scholars Platform. Peer-reviewed scholarly publications and academic research across Islamic studies disciplines.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
